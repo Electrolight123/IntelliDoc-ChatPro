@@ -1,10 +1,19 @@
 <p align="center">
-  <img src="assets/banner.png" alt="IntelliDoc ChatPro Banner" width="100%" />
+  <img src="assets/banner.png" alt="IntelliDoc ChatPro Banner" width="80%" />
 </p>
 
 <h1 align="center">IntelliDoc ChatPro 🤖📄</h1>
 
-> An intelligent AI assistant powered by Groq's LLMs that understands uploaded documents and websites using RAG (Retrieval-Augmented Generation), supports chat history, and provides accurate, context-aware answers.
+[![Run on Localhost](https://img.shields.io/badge/Run-Localhost-1f8ef1?style=for-the-badge&logo=streamlit)](http://localhost:8501)
+[![Made with Python](https://img.shields.io/badge/Made%20with-Python-3776AB?style=for-the-badge&logo=python)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-fc4c02?style=for-the-badge&logo=streamlit)](https://streamlit.io/)
+[![LangChain](https://img.shields.io/badge/Powered%20by-LangChain-blueviolet?style=for-the-badge)](https://www.langchain.com/)
+[![HuggingFace](https://img.shields.io/badge/Embeddings-HuggingFace-orange?style=for-the-badge&logo=huggingface)](https://huggingface.co/)
+[![Groq](https://img.shields.io/badge/Groq-LLM%20Inference-000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCA0ODAgNDgwIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0zOTQuMiAxMTYuM0wzMzYgMTY4LjIgMzI4LjYgMTcyLjggMzI4LjYgNzMuNEMzMjguNiAzMi4yIDMwNS4zIDE2LjYgMjcyLjYgMzIuNkwxNDAuNCA5NS43QzEwOC4yIDExMC42IDEwNy4yIDE1My4xIDEzOS4xIDE2OHY2MS43TDIwMi4xIDIyOWMyLjkgMS41IDYuNSAyLjQgMTAuMyAyLjQgMy4yIDAgNi4yLS42IDguOS0xLjZsMTI0LjMtNDkuNkMzNjQuMSAyNzYuNCAzNjguNiAyMzEuMSAzOTQuMiAyMTIuOFYxMTYuM1oiIGZpbGw9IiNmYjMwNDEiLz48cGF0aCBkPSJNMjQwIDI2OC4zYy0zLjItMS40LTYuNi0yLjMtMTAuMi0yLjMtMy42IDAtNy4xLjgtMTAuMiAyLjNMMTA1LjIgMzE4LjZjLTIyLjkgOS4xLTIyLjUgNDIuNSAwIDUxLjdsMTMzLjkgNTMuYzE4LjUgNy4zIDM5LjIgNy4zIDU3LjcgMGwxMzMuOS01My4yYzIyLjYtOS4xIDIyLjktNDIuMyAwLTUxLjVsLTEzNC0uMXoiIGZpbGw9IiNmYjMwNDEiLz48L3N2Zz4=)](https://groq.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+
+> 🧠 **AI-powered document question answering with persistent chat history**, built using Groq LLMs, HuggingFace Embeddings, and LangChain RAG — deployed via Streamlit for an intuitive UI.
+
 
 ---
 
